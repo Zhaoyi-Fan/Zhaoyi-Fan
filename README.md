@@ -19,6 +19,10 @@ particular emphasis on thorough enumeration.
 - **Privilege escalation** — Linux &amp; Windows local privesc, misconfiguration hunting
 - **Network &amp; infra** — Nmap enumeration, pivoting/tunneling (Ligolo, Chisel), password attacks
 
+> 📌 **[oscp-methodology](https://github.com/Zhaoyi-Fan/oscp-methodology)** — my full-chain
+> penetration testing playbook, written as a field checklist: recon → foothold → privilege
+> escalation → Active Directory (initial access to domain dominance).
+
 ## 🏎️ Sim Racing Engineering — Assetto Corsa
 
 Real-time telemetry, hardware integration, and a rules engine built for a competitive
