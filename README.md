@@ -15,8 +15,9 @@ offensive edge through OSCP-style lab work.
 
 - **Web &amp; API security** — OWASP Top 10, authentication / authorization and business-logic
   flaws; responsible disclosure, including a multi-round technical dialogue with Apple Security.
-- **Secure code review** — Python tooling for pattern-based detection of hard-coded credentials,
-  SQL / command-injection sinks, and dangerous calls across Python &amp; PHP codebases.
+- **Secure code review** — [source-code-security-scanner](https://github.com/Zhaoyi-Fan/source-code-security-scanner):
+  my Python triage scanner with severity scoring, entropy-based secret detection, and SARIF / CI
+  build-gating output — for hardcoded credentials, injection sinks, weak crypto and insecure deserialization.
 - **Secure SDLC / DevSecOps** — a GitLab CI/CD pipeline integrating SAST (SonarQube), DAST
   (OWASP ZAP), container scanning (Trivy) and IaC scanning (Checkov), deployed to AWS
   (EC2 / VPC / IAM / Security Groups).
