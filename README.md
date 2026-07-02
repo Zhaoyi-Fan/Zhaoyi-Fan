@@ -30,6 +30,29 @@ offensive edge through OSCP-style lab work.
 
 *Currently exploring: securing enterprise AI adoption and AI-assisted security workflows.*
 
+## 🎓 PhD Research — Browser Privacy &amp; Web Attack Surface
+
+PhD in Information Security (Royal Holloway, University of London). My research
+studied a concrete web privacy threat: the standard JavaScript APIs every browser
+exposes — keyboard, mouse and mobile motion/orientation events — can be abused by
+any web page, **with no permission prompt**, to silently de-anonymise the person
+behind the browser, defeating private / incognito mode and logged-out browsing.
+
+- **Browser attack-surface analysis** — mapped which behaviour-leaking APIs are
+  reachable without user consent across the major browsers on Windows, macOS, iOS
+  and Android, in both normal and private modes.
+- **Threat demonstration** — showed how a website (or a third-party script embedded
+  across many sites) can build a persistent behavioural profile of a visitor and
+  re-identify them across later sessions, even when they believe they are anonymous.
+- **Defensive recommendations** — proposed practical browser- and user-side
+  mitigations to put this tracking capability back under the user's control.
+
+> 📌 **[browser-behavioural-biometrics](https://github.com/Zhaoyi-Fan/browser-behavioural-biometrics)**
+> — sanitised research code: the data-collection browser extension, the browser-API
+> attack-surface study, and the identification pipeline. Thesis:
+> [*Browser user privacy — identifying users via browser interactions*](https://pure.royalholloway.ac.uk/en/publications/browser-user-privacy-identifying-users-via-browser-interactions/)
+> (RHUL, 2023).
+
 ## 🏎️ Sim Racing Engineering — Assetto Corsa
 
 Beyond security, I build real-time telemetry, hardware integration, and a rules engine for a
