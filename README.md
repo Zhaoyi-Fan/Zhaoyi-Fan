@@ -55,11 +55,13 @@ behind the browser, defeating private / incognito mode and logged-out browsing.
 
 ## 🏎️ Sim Racing Engineering — Assetto Corsa
 
-Beyond security, I build real-time telemetry, hardware integration, and a rules engine for a
-competitive Assetto Corsa league — all league-safe (read-only, no car-file edits, no checksum impact).
+Beyond security, I build race-forensics tooling, real-time telemetry, hardware integration, and a
+rules engine for a competitive Assetto Corsa league — all league-safe (read-only, no car-file
+edits, no checksum impact).
 
 | Project | What it does | Stack |
 |---|---|---|
+| [assetto-corsa-race-logger](https://github.com/Zhaoyi-Fan/assetto-corsa-race-logger) | "Warcraft Logs for AC": records every car on track (player + AI) at 15 Hz, detects incidents offline, attributes causes with confidence-scored evidence, and renders each race as a self-contained interactive HTML report with a scrubbable 2D replay, lap-pace analytics and season aggregation | Lua · CSP · Python · JS/Canvas |
 | [vrc-fa25-simhub-telemetry](https://github.com/Zhaoyi-Fan/vrc-fa25-simhub-telemetry) | Bridges a car's private CAN/ECU channels from CSP into SimHub over a shared memory-mapped file, plus a replica of the in-car dashboard | Lua · C# · SimHub |
 | [assetto-corsa-simhub-wheel-leds](https://github.com/Zhaoyi-Fan/assetto-corsa-simhub-wheel-leds) | Replicates the in-game wheel LED patterns (shift / DRS / flags) onto a physical 26-LED rim | JavaScript · SimHub |
 | [assetto-corsa-fia-drs-rules](https://github.com/Zhaoyi-Fan/assetto-corsa-fia-drs-rules) | Enforces the real-F1 1-second DRS rule on AI &amp; player using the FIA timing-loop model via the CSP physics API | Lua · CSP |
