@@ -15,6 +15,10 @@ offensive edge through OSCP-style lab work.
 
 - **Web &amp; API security** — OWASP Top 10, authentication / authorization and business-logic
   flaws; responsible disclosure, including a multi-round technical dialogue with Apple Security.
+- **End-to-end AppSec case study** — [secure-llm-sdlc-reference](https://github.com/Zhaoyi-Fan/secure-llm-sdlc-reference):
+  three security failures — broken object-level authorization, indirect prompt injection /
+  excessive agency and SQL injection — traced from threat model and reproducible vulnerable
+  baseline through hardened fixes, 19 regression tests and CI security gates.
 - **Secure code review** — [source-code-security-scanner](https://github.com/Zhaoyi-Fan/source-code-security-scanner):
   my Python triage scanner with severity scoring, entropy-based secret detection, and SARIF / CI
   build-gating output — for hardcoded credentials, injection sinks, weak crypto and insecure deserialization.
