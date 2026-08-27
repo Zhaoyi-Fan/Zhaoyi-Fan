@@ -9,7 +9,7 @@
 
 ## 🔐 Application Security
 
-Security researcher and application security practitioner. I focus on finding and fixing web and
+Security researcher, application security practitioner with experience in applied machine learning. I focus on finding and fixing web and
 API vulnerabilities, reviewing source code, and building security into the SDLC — while keeping an
 offensive edge through OSCP-style lab work.
 
