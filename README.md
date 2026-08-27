@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Application Security &amp; Security Research · PhD in Information Security · Data Analyst</b><br>
-  <i>Secure code review · secure SDLC · web &amp; API security — London, UK</i>
+  <i>Secure code review · secure SDLC · web &amp; API security · Applied machine learning · AI/LLM security— London, UK</i>
 </p>
 
 ---
