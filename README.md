@@ -9,8 +9,7 @@
 
 ## 🔐 Application Security
 
-Security researcher, application security practitioner with experience in applied machine learning. I focus on finding and fixing web and
-API vulnerabilities, reviewing source code, and building security into the SDLC — while keeping an
+Independent researcher, with a PhD in Information Security and experience in applied machine learning. I focus on finding and fixing web and API vulnerabilities, reviewing source code, and building security into the SDLC — while keeping an
 offensive edge through OSCP-style lab work.
 
 - **Web &amp; API security** — OWASP Top 10, authentication / authorization and business-logic
