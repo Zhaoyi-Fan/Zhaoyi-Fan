@@ -7,7 +7,7 @@
 
 ---
 
-## 🔐 Application Security
+##  Application Security
 
 Independent researcher, with a PhD in Information Security and experience in applied machine learning. I focus on finding and fixing web and API vulnerabilities, reviewing source code, and building security into the SDLC — while keeping an
 offensive edge through OSCP-style lab work.
@@ -27,13 +27,13 @@ offensive edge through OSCP-style lab work.
 - **Offensive testing** — web exploitation, Linux &amp; Windows privilege escalation, and Active
   Directory attack paths (OffSec PEN-200 / OSCP preparation).
 
-> 📌 **[oscp-methodology](https://github.com/Zhaoyi-Fan/oscp-methodology)** — my full-chain
+>  **[oscp-methodology](https://github.com/Zhaoyi-Fan/oscp-methodology)** — my full-chain
 > penetration testing playbook, written as a field checklist: recon → foothold → privilege
 > escalation → Active Directory.
 
 *Currently exploring: securing enterprise AI adoption and AI-assisted security workflows.*
 
-## 🎓 PhD Research — Browser Privacy &amp; Web Attack Surface
+##  PhD Research — Browser Privacy &amp; Web Attack Surface
 
 PhD in Information Security (Royal Holloway, University of London). My research
 studied a concrete web privacy threat: the standard JavaScript APIs every browser
@@ -50,13 +50,13 @@ behind the browser, defeating private / incognito mode and logged-out browsing.
 - **Defensive recommendations** — proposed practical browser- and user-side
   mitigations to put this tracking capability back under the user's control.
 
-> 📌 **[browser-behavioural-biometrics](https://github.com/Zhaoyi-Fan/browser-behavioural-biometrics)**
+>  **[browser-behavioural-biometrics](https://github.com/Zhaoyi-Fan/browser-behavioural-biometrics)**
 > — sanitised research code: the data-collection browser extension, the browser-API
 > attack-surface study, and the identification pipeline. Thesis:
 > [*Browser user privacy — identifying users via browser interactions*](https://pure.royalholloway.ac.uk/en/publications/browser-user-privacy-identifying-users-via-browser-interactions/)
 > (RHUL, 2023).
 
-## 🏎️ Sim Racing Engineering — Assetto Corsa
+##  Sim Racing Engineering — Assetto Corsa
 
 Beyond security, I build race-forensics tooling, real-time telemetry, hardware integration, and a
 rules engine for a competitive Assetto Corsa league — all league-safe (read-only, no car-file
@@ -69,7 +69,7 @@ edits, no checksum impact).
 | [assetto-corsa-simhub-wheel-leds](https://github.com/Zhaoyi-Fan/assetto-corsa-simhub-wheel-leds) | Replicates the in-game wheel LED patterns (shift / DRS / flags) onto a physical 26-LED rim | JavaScript · SimHub |
 | [assetto-corsa-fia-drs-rules](https://github.com/Zhaoyi-Fan/assetto-corsa-fia-drs-rules) | Enforces the real-F1 1-second DRS rule on AI &amp; player using the FIA timing-loop model via the CSP physics API | Lua · CSP |
 
-## 🛠️ Tech
+##  Tech
 
 `Python` · `JavaScript` · `PHP` · `SQL` · `Bash` · `Lua` · `C#`
 &nbsp;|&nbsp; Burp Suite · OWASP ZAP · SonarQube · Trivy · Checkov · Nmap · AWS · Git
