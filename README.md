@@ -32,7 +32,7 @@ offensive edge through OSCP-style lab work.
 
 *Currently exploring: securing enterprise AI adoption and AI-assisted security workflows.*
 
-##  PhD Research — Browser Privacy &amp; Web Attack Surface
+##  PhD Research — Browser Privacy &amp; Web Attack Surface &amp; Applied ML
 
 PhD in Information Security (Royal Holloway, University of London). My research
 studied a concrete web privacy threat: the standard JavaScript APIs every browser
