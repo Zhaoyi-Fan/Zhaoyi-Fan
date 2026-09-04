@@ -1,8 +1,7 @@
 <h1 align="center">Zhaoyi Fan</h1>
 
 <p align="center">
-  <b>Application Security &amp; Security Research · PhD in Information Security · Data Analyst</b><br>
-  <i>Secure code review · secure SDLC · web &amp; API security · Applied machine learning · AI/LLM security— London, UK</i>
+  <b>Application Security &amp; Security Research · PhD in Information Security · Applied ML · Data Analyst · AI/LLM security</b><br>
 </p>
 
 ---
